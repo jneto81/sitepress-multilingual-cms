@@ -1,0 +1,16 @@
+{
+  "name": "kokiddp/sitepress-multilingual-cms",
+  "description": "WPML Multilingual CMS",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/kokiddp/sitepress-multilingual-cms",
+  "authors": [
+    {
+      "name": "OnTheGoSystems",
+      "homepage": "https://wpml.org/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1"
+  }
+}
